@@ -9,7 +9,7 @@
 
 - 🎓I am a Computer Engineering graduate from An-Najah National University .
   
--  I gained valuable experience in front-end development during my internship at Endovr. To enhance my problem-solving skills and efficiency, I completed courses in problem solving and computer science through Al-Maarefah Academy. Currently, I am undertaking a Full Stack Development course to become proficient in building and deploying websites on the internet .
+-  I gained valuable experience in front-end development during my internship at Endovr. To enhance my problem-solving skills and efficiency, I completed courses in problem solving and computer science through Al-knowledge Academy. Currently, I am undertaking a Full Stack Development course to become proficient in building and deploying websites on the internet .
 
 
   
