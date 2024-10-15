@@ -1,5 +1,5 @@
 # Hi there, I'm Rand Alkhadear 👋
-![Profile Views](https://komarev.com/ghpvc/?username=rand alkhadear&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=randalkhadear&color=yellow)
 
 ## About Me
 - 🎓 I graduated from An-Najah University with a degree in Computer Engineering.
