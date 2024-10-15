@@ -5,9 +5,7 @@
 - 📫 How to reach me: randalkhadear2@gmail.com
 
 ## My Skills
-- **Languages**:  - C++   ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-  - HTML   ![html Icon](https://img.icons8.com/color/48/000000/html-5--v1.png)
-  - C   ![c Icon](https://img.icons8.com/?id=shQTXiDQiQVR&format=png&color=000000)
+- **Languages**:  - C++   ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ,  HTML   ![html Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) ,  C   ![c Icon](https://img.icons8.com/?id=shQTXiDQiQVR&format=png&color=000000)
   - PHP   ![php Icon](https://img.icons8.com/?id=9BGchbZAXAyR&format=png&color=000000)
   - GIT   ![git Icon](https://img.icons8.com/?id=16318&format=png&color=000000)
   - JAVASCRIPT   ![javascript Icon](https://img.icons8.com/?id=PXTY4q2Sq2lG&format=png&color=000000)
