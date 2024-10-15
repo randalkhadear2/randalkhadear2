@@ -5,7 +5,7 @@
 - 📫 How to reach me: randalkhadear2@gmail.com
 
 ## My Skills
-- **Languages**:   -  - C++ <i class="fab fa-cplusplus"></i>
+- **Languages**:[C++ Icon]
 
 -  Python, JavaScript, c++ , html,java .
 - **Frameworks**: React, Node.js
