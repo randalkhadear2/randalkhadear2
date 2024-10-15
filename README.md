@@ -1,15 +1,21 @@
 # Hi there, I'm Rand Alkhadear 👋
+
 ![Profile Views](https://komarev.com/ghpvc/?username=randalkhadear&color=yellow)
 
 ## About Me
-- 🎓 I graduated from An-Najah University with a degree in Computer Engineering.
-- 📫 How to reach me: randalkhadear2@gmail.com
+
+- 🎓I am a Computer Engineering graduate from An-Najah National University ز
+-  I gained valuable experience in front-end development during my internship at Endovr. To enhance my problem-solving skills and efficiency, I completed courses in problem solving and computer science through Al-Maarefah Academy. Currently, I am undertaking a Full Stack Development course to become proficient in building and deploying websites on the internet ز
+  - 📫 How to reach me: randalkhadear2@gmail.com
 
 ## My Skills
-- **Languages**:   C++   ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ,  HTML   ![html Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) ,  C   ![c Icon](https://img.icons8.com/?id=shQTXiDQiQVR&format=png&color=000000) ,   PHP   ![php Icon](https://img.icons8.com/?id=9BGchbZAXAyR&format=png&color=000000) ,   GIT   ![git Icon](https://img.icons8.com/?id=16318&format=png&color=000000) ,   JAVASCRIPT   ![javascript Icon](https://img.icons8.com/?id=PXTY4q2Sq2lG&format=png&color=000000) ,   MY SQL   ![my sql Icon](https://img.icons8.com/?id=14468&format=png&color=000000) ,   PYTHON   ![python Icon](https://img.icons8.com/?id=l75OEUJkPAk4&format=png&color=000000) ,   CSS   ![css Icon](https://img.icons8.com/?id=7gdY5qNXaKC0&format=png&color=000000) ,   REACT NATIVE   ![REACT NATIVE Icon](https://img.icons8.com/?id=123603&format=png&color=000000)
+- **Languages**: ![C++](https://img.shields.io/badge/-C++-blue), ![HTML](https://img.shields.io/badge/-HTML-orange), ![C](https://img.shields.io/badge/-C-blue), ![PHP](https://img.shields.io/badge/-PHP-purple), ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow), ![Python](https://img.shields.io/badge/-Python-blue)
+- 
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-black), ![MySQL](https://img.shields.io/badge/-MySQL-blue), ![CSS](https://img.shields.io/badge/-CSS-blue), ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB)
 
 
 
 ## Connect with Me
 - [LinkedIn] https://www.linkedin.com/in/rand-alkhadear-a5688b288/
+- [gmail]  randalkhadear2@gmail.com
 
