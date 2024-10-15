@@ -20,10 +20,10 @@
 ## My Skills
 
 
-- **Languages**: ![C++](https://img.shields.io/badge/-C++-blue), ![HTML](https://img.shields.io/badge/-HTML-orange), ![C](https://img.shields.io/badge/-C-blue), ![PHP](https://img.shields.io/badge/-PHP-purple), ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow), ![Python](https://img.shields.io/badge/-Python-blue)
+- **Languages**: ![C++](https://img.shields.io/badge/-C++-blue), ![HTML](https://img.shields.io/badge/-HTML-orange), ![C](https://img.shields.io/badge/-C-blue), ![PHP](https://img.shields.io/badge/-PHP-purple), ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow), ![Python](https://img.shields.io/badge/-Python-blue) ![MySQL](https://img.shields.io/badge/-MySQL-blue), ![CSS](https://img.shields.io/badge/-CSS-blue)
 
   
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-black), ![MySQL](https://img.shields.io/badge/-MySQL-blue), ![CSS](https://img.shields.io/badge/-CSS-blue), ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-black), ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB)
 
 
 
