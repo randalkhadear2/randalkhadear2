@@ -6,7 +6,7 @@
 
 ## My Skills
 - **Languages**:  -![C++ Icon] https://icons8.com/icon/TpULddJc4gTh/c%2B%2B
-
+https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000
 
 -  Python, JavaScript, c++ , html,java .
 - **Frameworks**: React, Node.js
