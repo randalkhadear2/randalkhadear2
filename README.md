@@ -11,3 +11,12 @@
 
 ## Connect with Me
 - [LinkedIn] https://www.linkedin.com/in/rand-alkhadear-a5688b288/
+# My Project
+
+![Build Status](https://travis-ci.org/username/repo.svg?branch=main)
+![Coverage](https://coveralls.io/repos/github/username/repo/badge.svg?branch=main)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Description
+
+A brief description of your project.
